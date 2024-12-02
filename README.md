@@ -47,27 +47,27 @@ personal.auto.tfvars файл не выкладывается на гит.
 3 
 отмечен на скриншоте 
 
-tera-pass.PNG
+[tera-pass.PNG](https://github.com/Dmitriy-Garfild/terraform1/blob/main/tera-pass.PNG)
 
 4,5
 ошибка в том что не указано имя ресурса
 не правильно указана переменная random_string
 
 
-tera-docker1.PNG
+[tera-docker1.PNG](https://github.com/Dmitriy-Garfild/terraform1/blob/main/tera-docker1.PNG)
 
 6
 
 
 если в конфигурационном файле есть изменения для существующих объектов -auto-approve позволит Terraform уничтожить или заменить объекты без предупреждения. нужно вначале использовать terraform plan 
 
-tera-dockerCrush.PNG
+[tera-dockerCrush.PNG](https://github.com/Dmitriy-Garfild/terraform1/blob/main/tera-dockerCrush.PNG)
 
 8 
 
 terraform destroy -auto-approve
 
-all-crush.PNG
+[all-crush.PNG](https://github.com/Dmitriy-Garfild/terraform1/blob/main/all-crush.PNG)
 
 
 9
