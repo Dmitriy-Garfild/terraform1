@@ -47,7 +47,7 @@ personal.auto.tfvars файл не выкладывается на гит.
 3 
 отмечен на скриншоте 
 
-[tera-pass.PNG](https://github.com/Dmitriy-Garfild/terraform1/blob/main/tera-pass.PNG)
+[tera-pass](https://github.com/Dmitriy-Garfild/terraform1/blob/main/tera-pass.PNG)
 
 4,5
 ошибка в том что не указано имя ресурса
